@@ -1,1 +1,15 @@
+{
+    "acre":{
+        "name": "Acre",
+        "url": "https://www.youtube.com/watch?v=hozIhbSd2bQ",
+        "cepInicial": 69900000,
+        "cepFinal": 69999999
+    },
 
+    "rio":{
+        "name": "Rio de Janeiro",
+        "url": "https://vtex.com/br-pt/marketplace/",
+        "cepInicial": 20000000,
+        "cepFinal": 28999999
+    }
+}
